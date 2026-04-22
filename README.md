@@ -87,3 +87,5 @@ To avoid ambiguity:
 > *"Based on the books this user has read, which other books from the catalog would you guess they've also read?"*
 
 That's it. A user looking at a book in the catalog can ask "what else would readers like me enjoy?" and the system returns a ranked list based on (a) what other users with overlapping histories have read and (b) which books match the genre profile of what they've read. That's a useful recommender even without any temporal dimension.
+
+> ## Refer approach&eval.md for details about the pipeline along with the jupyter notebook
